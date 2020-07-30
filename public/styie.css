@@ -1,0 +1,27 @@
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+
+.rounded-circle2{
+  width: 50px;
+}
+.container2{
+  text-align: center;
+}
+.carousel-inner{
+  height: 500px;
+}
+body {
+  background-image: url("bg.jpg");
+  background-size: 100%;
+  font-family: 'Trirong', serif;
+  }
+.shadow-lg{
+  background-image: url("bg.jpg");
+  background-size: 100%;
+}
